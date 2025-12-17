@@ -2,6 +2,10 @@
 
 A role-based web application built using Streamlit, Python, and MySQL that allows clients to raise queries and support teams to manage, filter, and close them efficiently.
 
+📌 Client Query Management System
+
+A role-based web application built using Streamlit, Python, and MySQL that allows clients to raise queries and support teams to manage, filter, and close them efficiently.
+
 🚀 Project Overview
 
 The Client Query Management System is designed to:
