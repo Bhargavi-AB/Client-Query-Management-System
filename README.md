@@ -107,6 +107,7 @@ ClientQueryManagementSystem/
 ## ▶️ How to Run the Application
 
 - pip install streamlit pandas mysql-connector-python
+- save all .py files
 - streamlit run mainapp.py
 
 👩‍💻 Author
