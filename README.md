@@ -1,6 +1,38 @@
-📌 Client Query Management System
+# 📌 Client Query Management System
 
-A role-based web application built using Streamlit, Python, and MySQL that allows clients to raise queries and support teams to manage, filter, and close them efficiently.
+A role-based web application built using **Streamlit**, **Python**, and **MySQL** that allows clients to raise queries and support teams to manage, filter, and close them efficiently.
+
+---
+
+## 🚀 Project Overview
+
+The **Client Query Management System** is designed to:
+
+- Allow clients to raise support queries
+- Allow support users to view, filter, and close queries
+- Maintain historical (read-only) queries alongside newly raised queries
+- Persist all data securely in a MySQL database
+
+The application is built using **Streamlit** for the user interface and **MySQL** for backend storage.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** Streamlit
+- **Backend:** Python
+- **Database:** MySQL
+
+### Libraries Used
+- streamlit
+- pandas
+- mysql-connector-python
+- datetime
+
+---
+
+## 📁 Project Stru
+
 
 🚀 Project Overview
 
